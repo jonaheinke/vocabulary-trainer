@@ -1,0 +1,13 @@
+$white: white;
+$light: #8ecae6; //also theme color
+$medium: #219ebc;
+$dark: #023047;
+$accent-light: #ffb703;
+$accent-medium: #fb8500;
+
+body {
+	margin: 0;
+	background-color: $dark;
+	color: $light;
+	font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
